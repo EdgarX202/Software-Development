@@ -1,4 +1,4 @@
 # Software-Development
-Edinburgh Napier University | Software Development Coursework
+This prototype is part of university coursework
 <br><br>
 Details TBA soon...
